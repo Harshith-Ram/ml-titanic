@@ -29,7 +29,6 @@ ml-qa-titanic/
 - **Model QA:** Evaluates ML model performance using accuracy, overfitting detection, and standard evaluation metrics.
 - **Automation:** PyTest scripts to validate dataset and model automatically.
 - **DeepChecks Integration:** Generates HTML reports for data integrity and model evaluation.
-- **Resume/Portfolio Ready:** Demonstrates practical ML QA skills for SDET → ML QA transition.
 
 ---
 
