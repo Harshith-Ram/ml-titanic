@@ -1,0 +1,11 @@
+pandas==2.1.1
+numpy==1.26.4
+scikit-learn
+joblib==1.3.2
+pytest==8.4.1
+pytest-html==4.1.1
+deepchecks
+matplotlib==3.8.0
+seaborn
+ipywidgets==8.1.7
+
